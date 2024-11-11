@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+squarify
+jupyter
+ipykernel
+re
+os
+datetime
+math
+openpyxl
+oracledb
